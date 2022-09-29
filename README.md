@@ -1,6 +1,6 @@
 <h1 style="font-size: 36px">Olá, seja bem vindo ao meu GitHub!</h1>
 
-<p style="font-size: 26px">Sou técnico de Hardware e Robótica e Estudante de Análise e Desenvolvimento de Sistemas. Venho ampliando meus conhecimentos através do estudo diário e cursos complementares. "Migrar" do Hardware para o Software não parece tão difícil (Pelos olhos do observador... rs), tem sido uma jornada MUITO prezerosa. 
+<p>Sou técnico de Hardware e Robótica e Estudante de Análise e Desenvolvimento de Sistemas. Venho ampliando meus conhecimentos através do estudo diário e cursos complementares. "Migrar" do Hardware para o Software não parece tão difícil (Pelos olhos do observador... rs), tem sido uma jornada MUITO prezerosa. 
 <br>
 Acredito que vou ter muito sucesso como desenvolvedor, aposto no  meu perfil empreendedor e autodidata, no meu gosto por desafios e novos aprendizados, na minha dinâmica para o trabalho em equipe e nos conhecimentos que trago de outras atividades e formações. 
 <br>
