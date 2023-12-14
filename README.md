@@ -1,13 +1,13 @@
 <h1 style="font-size: 36px">Olá, seja bem vindo ao meu GitHub!</h1>
 
-<p>Sou técnico de Hardware e Estudante de Análise e Desenvolvimento de Sistemas, e, também, trabalho numa escola como Oficineiro de Tecnologias. Venho ampliando meus conhecimentos através do estudo diário e cursos complementares. "Migrar" do Hardware para o Software não parece tão difícil (Pelos olhos do observador... rs), tem sido uma jornada MUITO prezerosa. 
+<p>Sou Técnico de Hardware e Redes, Estudante de Análise e Desenvolvimento de Sistemas e, também, trabalho numa escola como Professor de Informática. Venho ampliando meus conhecimentos através do estudo diário, cursos complementares, projetos pessoais e em grupo. "Migrar" do Hardware para o Software não parece tão difícil (Pelos olhos do observador... rs), tem sido uma jornada MUITO prezerosa. 
 <br>
 Acredito que vou ter muito sucesso como desenvolvedor, aposto no  meu perfil empreendedor e autodidata, no meu gosto por desafios e novos aprendizados, na minha dinâmica para o trabalho em equipe e nos conhecimentos que trago de outras atividades e formações. 
 <br>
 Tenho adquirido experiência como desenvolvedor através de projetos pessoais e trabalhos freelance. Mas procuro integrar uma equipe, por areditar que <b>TENHO O QUE SOMAR e APRENDER muito.</b></p>
 <br>
 <hr>
-<p>Meus repositórios são de exércicios práticos e de projetos pessoais, ainda estou organizando alguns projetos para subir - próximas semanas!! - Estou aberto a críticas, sugestões e a fazer Networking para trocas de informações.</p>
+<p>Meus repositórios são de exércicios práticos e de projetos pessoais - Estou aberto a críticas, sugestões e a fazer Networking para trocas de informações.</p>
 
 <p>Para contatos:</p>
 <a href="https://www.linkedin.com/in/felipehelpnet/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
