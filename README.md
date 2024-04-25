@@ -1,8 +1,8 @@
 <h1 style="font-size: 36px">Olá, seja bem vindo ao meu GitHub!</h1>
 
-<p>Sou Técnico de Hardware e Redes, Estudante de Análise e Desenvolvimento de Sistemas e, também, trabalho numa escola como Professor de Informática. Venho ampliando meus conhecimentos através do estudo diário, cursos complementares, projetos pessoais e em grupo. "Migrar" do Hardware para o Software não parece tão difícil (Pelos olhos do observador... rs), tem sido uma jornada MUITO prezerosa. 
+<p>Sou Técnico de Hardware e Redes, Estudante de Análise e Desenvolvimento de Sistemas e, também, trabalho numa escola como Professor de Informática. Venho ampliando meus conhecimentos em programação através do estudo diário, cursos complementares, projetos pessoais e em grupo. 
 <br>
-Acredito que vou ter muito sucesso como desenvolvedor, aposto no  meu perfil empreendedor e autodidata, no meu gosto por desafios e novos aprendizados, na minha dinâmica para o trabalho em equipe e nos conhecimentos que trago de outras atividades e formações. 
+Tenho perfil empreendedor e autodidata, gosto de desafios e novos aprendizados, tenho dinâmica e experiência para o trabalho em equipe e trago uma bagagem de conhecimento e experiênciaso de outras atividades e formações (Arte, Educação, Vendas e TI). 
 <br>
 Tenho adquirido experiência como desenvolvedor através de projetos pessoais e trabalhos freelance. Mas procuro integrar uma equipe, por areditar que <b>TENHO O QUE SOMAR e APRENDER muito.</b></p>
 <br>
