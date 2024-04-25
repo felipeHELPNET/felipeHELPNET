@@ -9,6 +9,10 @@ Tenho adquirido experiência como desenvolvedor através de projetos pessoais e 
 <hr>
 <p>Meus repositórios são de exércicios práticos e de projetos pessoais - Estou aberto a críticas, sugestões e a fazer Networking para trocas de informações.</p>
 
+I am a Hardware and Network Technician, a Systems Analysis and Development Student and I also work at a school as a Computer Teacher. I have been expanding my knowledge in programming through daily study, complementary courses, personal and group projects.
+I have an entrepreneurial and self-taught profile, I like challenges and new learning, I have dynamics and experience for teamwork and I bring a wealth of knowledge and experience from other activities and training (Art, Education, Sales and IT).
+I have gained experience as a developer through personal projects and freelance work. But I'm looking to join a team, because I believe that I HAVE WHAT TO ADD AND LEARN a lot.
+
 <p>Para contatos:</p>
 <a href="https://www.linkedin.com/in/felipehelpnet/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.gg/TBbGYa8r" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
